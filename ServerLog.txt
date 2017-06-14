@@ -1,0 +1,5 @@
+[06/14/17 12:18:59] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[06/14/17 12:18:59] [Server API] Verbose: 	Command line: "C:\Users\louqy benesir\Desktop\Windows\TerrariaServer.exe" 
+[06/14/17 12:18:59] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[06/14/17 12:18:59] [Server API] Verbose: 	Mono: False
+[06/14/17 12:19:08] [Server API] Info: Plugin TShock v4.3.22.0 (by The TShock Team) initiated.

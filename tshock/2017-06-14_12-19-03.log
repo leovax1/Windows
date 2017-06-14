@@ -1,0 +1,79 @@
+2017-06-14 12:19:08 - TextLog: INFO: TShock 4.3.22.0 (Mintaka) now running.
+2017-06-14 12:19:08 - TShock: INFO: AutoSave Enabled
+2017-06-14 12:19:08 - TShock: INFO: Backups Disabled
+2017-06-14 12:19:08 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2017-06-14 12:20:50 - TShock: INFO: leovax (192.168.1.2) from 'guest' group joined. (1/8)
+2017-06-14 12:20:50 - Utils: INFO: Broadcast: leovax has joined.
+2017-06-14 12:21:44 - Utils: INFO: Server executed: /help.
+2017-06-14 12:23:30 - Utils: INFO: Broadcast: leovax has left.
+2017-06-14 12:23:30 - TShock: INFO: leovax disconnected.
+2017-06-14 12:23:30 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2017-06-14 12:23:35 - Utils: INFO: Broadcast: World saved.
+2017-06-14 12:23:35 - SaveManager: INFO: World saved at (C:\Users\louqy benesir\Documents\My Games\Terraria\Worlds\Beat_the_system.wld)
+2017-06-14 12:27:09 - TShock: INFO: Trexo (192.168.1.3) from 'guest' group joined. (1/8)
+2017-06-14 12:27:09 - Utils: INFO: Broadcast: Trexo has joined.
+2017-06-14 12:29:04 - Utils: INFO: Broadcast: Trexo has left.
+2017-06-14 12:29:04 - TShock: INFO: Trexo disconnected.
+2017-06-14 12:29:04 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2017-06-14 12:29:09 - Utils: INFO: Broadcast: World saved.
+2017-06-14 12:29:09 - SaveManager: INFO: World saved at (C:\Users\louqy benesir\Documents\My Games\Terraria\Worlds\Beat_the_system.wld)
+2017-06-14 12:58:48 - TShock: INFO: leovax (192.168.1.2) from 'guest' group joined. (1/8)
+2017-06-14 12:58:48 - Utils: INFO: Broadcast: leovax has joined.
+2017-06-14 12:58:49 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2017-06-14 12:58:55 - Utils: INFO: Broadcast: World saved.
+2017-06-14 12:58:55 - SaveManager: INFO: World saved at (C:\Users\louqy benesir\Documents\My Games\Terraria\Worlds\Beat_the_system.wld)
+2017-06-14 12:58:57 - TShock: INFO: Trexo (192.168.1.3) from 'guest' group joined. (2/8)
+2017-06-14 12:58:57 - Utils: INFO: Broadcast: Trexo has joined.
+2017-06-14 13:14:05 - Utils: INFO: Server executed: /help.
+2017-06-14 13:14:19 - Utils: INFO: Server executed: /help 2.
+2017-06-14 13:14:23 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2017-06-14 13:26:35 - GetDataHandlers: ERROR: System.NullReferenceException: Object reference not set to an instance of an object.
+   at TShockAPI.GetDataHandlers.HandlePlayerUpdate(GetDataHandlerArgs args)
+   at TShockAPI.GetDataHandlers.HandlerGetData(PacketTypes type, TSPlayer player, MemoryStream data)
+2017-06-14 13:31:15 - Utils: INFO: Broadcast: leovax: lol
+2017-06-14 13:33:01 - GetDataHandlers: ERROR: System.NullReferenceException: Object reference not set to an instance of an object.
+   at TShockAPI.GetDataHandlers.HandlePlayerUpdate(GetDataHandlerArgs args)
+   at TShockAPI.GetDataHandlers.HandlerGetData(PacketTypes type, TSPlayer player, MemoryStream data)
+2017-06-14 13:38:23 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2017-06-14 13:54:25 - Utils: INFO: Broadcast: leovax: they are 2 dtrong
+2017-06-14 13:54:39 - Utils: INFO: Broadcast: Trexo: no they are not we can do it
+2017-06-14 13:54:43 - Utils: INFO: Broadcast: Trexo: com ewith me man
+2017-06-14 13:54:49 - Utils: INFO: Broadcast: Trexo: /
+2017-06-14 13:54:53 - Utils: INFO: Broadcast: leovax: help
+2017-06-14 13:54:57 - Utils: INFO: leovax executed: /help.
+2017-06-14 13:55:31 - TextLog: ERROR: StatTracker Exception: System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at TShockAPI.Utils.GetResponseNoException(HttpWebRequest req)
+   at TShockAPI.StatTracker.SendUpdate(Object info)
+2017-06-14 13:59:09 - Utils: INFO: Trexo executed: /who.
+2017-06-14 13:59:09 - Utils: INFO: leovax executed: /help.
+2017-06-14 13:59:18 - Utils: INFO: Trexo executed: /playing.
+2017-06-14 13:59:21 - Utils: INFO: leovax executed: /who.
+2017-06-14 13:59:32 - Utils: INFO: leovax tried to execute /tp trexo.
+2017-06-14 13:59:43 - Utils: INFO: Trexo tried to execute /give trexo gold.
+2017-06-14 14:00:10 - Utils: INFO: Trexo tried to execute /kill leoavx.
+2017-06-14 14:00:25 - Utils: INFO: Trexo tried to execute /kill leoavx.
+2017-06-14 14:00:31 - Utils: INFO: Trexo tried to execute /kill leoavx for ever.
+2017-06-14 14:00:38 - Utils: INFO: Trexo tried to execute /give trexo health.
+2017-06-14 14:00:50 - Utils: INFO: Server executed: /kill trexo.
+2017-06-14 14:00:53 - Utils: INFO: Broadcast: Trexo: /
+2017-06-14 14:01:18 - Utils: INFO: Server executed: /help.
+2017-06-14 14:01:26 - Utils: INFO: Server executed: /help.
+2017-06-14 14:01:30 - Utils: INFO: Server executed: /help 2.
+2017-06-14 14:01:32 - Utils: INFO: Server executed: /help 3.
+2017-06-14 14:01:41 - Utils: INFO: Server executed: /rules.
+2017-06-14 14:01:50 - Utils: INFO: leovax executed: /rules.
+2017-06-14 14:01:52 - Utils: INFO: Trexo executed: /rules.
+2017-06-14 14:01:55 - Utils: INFO: Broadcast: Trexo: q
+2017-06-14 14:01:58 - Utils: INFO: Broadcast: Trexo: never
+2017-06-14 14:02:01 - Utils: INFO: Broadcast: Trexo: ok 
+2017-06-14 14:02:06 - Utils: INFO: Broadcast: Trexo: let's go 
+2017-06-14 14:02:21 - Utils: INFO: Broadcast: Trexo: now
+2017-06-14 14:02:23 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2017-06-14 14:03:59 - Utils: INFO: Broadcast: leovax has left.
+2017-06-14 14:03:59 - TShock: INFO: leovax disconnected.
+2017-06-14 14:04:08 - Utils: INFO: Broadcast: Trexo has left.
+2017-06-14 14:04:08 - TShock: INFO: Trexo disconnected.
+2017-06-14 14:04:08 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2017-06-14 14:04:11 - Utils: INFO: Broadcast: World saved.
+2017-06-14 14:04:11 - SaveManager: INFO: World saved at (C:\Users\louqy benesir\Documents\My Games\Terraria\Worlds\Beat_the_system.wld)
